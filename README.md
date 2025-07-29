@@ -1,7 +1,7 @@
 # 🚀 Olá, me chamo Rafael! | Hello, I'm Rafael!
 ### 💻 Engenharia da Computação | 🔧 Python IA/ML Developer
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=&color=green)](https://www.dio.me/users/rafael_ernavarro)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&color=green)](www.linkedin.com/in/rafael-navarro-041b111b4)
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=&color=green)](https://www.dio.me/users/rafael_ernavarro)  
 
 
 **Estudante de Engenharia da Computação (8º semestre) com foco em Machine Learning e Análise de Dados**
