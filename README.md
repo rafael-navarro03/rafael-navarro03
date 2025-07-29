@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=&color=green)](www.linkedin.com/in/rafael-navarro-041b111b4)
 
 
-**Estudante de Engenharia da Computação (7º semestre) com foco em Machine Learning e Análise de Dados**
+**Estudante de Engenharia da Computação (8º semestre) com foco em Machine Learning e Análise de Dados**
 
 ## 🛠 Habilidades Técnicas
 - **Machine Learning**: 
